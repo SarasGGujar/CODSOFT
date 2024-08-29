@@ -1,4 +1,4 @@
-# Contact Book
+# Contact Book Program
 
 contacts = {}
 
